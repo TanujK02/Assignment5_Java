@@ -7,18 +7,18 @@ public abstract class Quadrangle
 	public float base=0;
 	
 	public Quadrangle(float height, float width, float base) {
-		super();
+		
 		this.height = height;
 		this.width = width;
 		this.base = base;
 	}
 	public Quadrangle(float height, float width) {
-		//super();
+		
 		this.height = height;
 		this.width = width;
 	}
 	public Quadrangle(float height) {
-		super();
+		
 		this.height = height;
 		
 	}
