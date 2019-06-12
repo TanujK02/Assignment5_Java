@@ -13,7 +13,7 @@ public class Trapezium extends Quadrangle{
 
 	@Override
 	public float getArea() {
-		// TODO Auto-generated method stub
+		
 		return ((height/2)*(width+arm));
 	}
 
