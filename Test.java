@@ -21,7 +21,7 @@ public class Test
 		{
 			System.out.println("Area of the shape is:"+qd.getArea());
 		}
-		
+		sc.close();
 	}
 
 }
